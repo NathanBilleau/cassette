@@ -1,0 +1,16 @@
+{
+  "name": "cassette",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
